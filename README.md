@@ -1,5 +1,5 @@
 #Cinemax - A Movie Booking VB.NET Application
-==================================
+
 ##Description
 This is a VB.NET windows form application for movie theatre CINEMAX.
 Clients can book tickets to movies now showing in the theatre and also view the
@@ -18,4 +18,4 @@ Screen.
 Language.
 7. The clients are then provided with a unique id after the booking process
 Which they are supposed to show in the booking counter of the theatre.
-8. Inspired from Material Design.
+8. Uses modern flat design.
