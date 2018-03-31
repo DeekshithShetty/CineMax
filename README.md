@@ -4,7 +4,7 @@
 This is a VB.NET windows form application for movie theatre CINEMAX.
 Clients can book tickets to movies now showing in the theatre and also view the
 synopsis of the upcoming movies. The client can book tickets by providing their
-Bank details.
+Bank details. This project was done as part of my RDBMS subject in college.
 
 ##Features
 1. Provides views for Admin and User.
@@ -18,25 +18,3 @@ Screen.
 Language.
 7. The clients are then provided with a unique id after the booking process
 Which they are supposed to show in the booking counter of the theatre.
-8. Uses modern flat design.
-
-##Snapshots
- - Home Screen
- 
- ![alt tag](https://raw.githubusercontent.com/DeekshithShetty/CineMax/master/Snapshots/snapshot-1.png)
- 
- - Movie Info Screen
- 
- ![alt tag](https://raw.githubusercontent.com/DeekshithShetty/CineMax/master/Snapshots/snapshot-2.png)
- 
- - Login Screen
- 
- ![alt tag](https://raw.githubusercontent.com/DeekshithShetty/CineMax/master/Snapshots/snapshot-3.png)
- 
- - Booking Screen
- 
- ![alt tag](https://raw.githubusercontent.com/DeekshithShetty/CineMax/master/Snapshots/snapshot-5.png)
- 
- - Admin Panel
- 
- ![alt tag](https://raw.githubusercontent.com/DeekshithShetty/CineMax/master/Snapshots/snapshot-7.png)
