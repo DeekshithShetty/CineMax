@@ -1,12 +1,12 @@
-#Cinemax - A Movie Booking VB.NET Application
+# Cinemax - A Movie Booking VB.NET Application
 
-##Description
+## Description
 This is a VB.NET windows form application for movie theatre CINEMAX.
 Clients can book tickets to movies now showing in the theatre and also view the
 synopsis of the upcoming movies. The client can book tickets by providing their
 Bank details. This project was done as part of my RDBMS subject in college.
 
-##Features
+## Features
 1. Provides views for Admin and User.
 2. Admin has privilege to enter movie details ,update the status of movies etc.
 3. Clients can login and book their desired movies.
